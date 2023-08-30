@@ -18,3 +18,4 @@ if __name__ == '__main__':
 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
 print('调拌机02')
 print('调拌机05')
+print('调拌机05')
