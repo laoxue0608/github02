@@ -12,5 +12,4 @@ if __name__ == '__main__':
     print('test')
     print('testi123123')
 
-
-    print('调拌机01')
+    print('调拌机02')
