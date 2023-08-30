@@ -17,3 +17,4 @@ if __name__ == '__main__':
  1614770435@qq.com
 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
 print('调拌机02')
+print('调拌机05')
