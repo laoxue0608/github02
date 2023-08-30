@@ -13,3 +13,4 @@ if __name__ == '__main__':
     print('testi123123')
 
     print('调拌机02')
+    print('调拌机03')
