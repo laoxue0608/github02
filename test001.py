@@ -6,3 +6,4 @@ if __name__ == '__main__':
     print('005')
     print('005')
     print('007')
+    print('main')
