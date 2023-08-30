@@ -5,3 +5,5 @@ if __name__ == '__main__':
     print('005')
     print('006')
     print('master')
+    print('007')
+    print('main')
